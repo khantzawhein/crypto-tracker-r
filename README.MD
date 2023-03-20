@@ -7,6 +7,3 @@
 1.  Khant Zaw Hein (652115511)
 2.  Naw Joyful Awgyi (652115510)
 3.  Win Naing Kyaw (652115517)
-
-### Published at:
-https://khantzawhein.shinyapps.io/CryptoPriceChart/
