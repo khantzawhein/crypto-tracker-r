@@ -14,4 +14,3 @@ https://khantzawhein.shinyapps.io/CryptoPriceChart/
 ### Credits: 
 
 [CoinMarketCap API](https://coinmarketcap.com/api/)
-> API Key can be edited in `api_clients/cmchttr.R` file
