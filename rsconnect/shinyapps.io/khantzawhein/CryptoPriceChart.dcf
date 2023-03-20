@@ -1,0 +1,14 @@
+name: CryptoPriceChart
+title: CryptoPriceChart
+username:
+account: khantzawhein
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8618445
+bundleId: 6983097
+url: https://khantzawhein.shinyapps.io/CryptoPriceChart/
+when: 1679329942.11086
+lastSyncTime: 1679329942.11091
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|group.txt|map.cache
